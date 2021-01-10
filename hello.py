@@ -1,4 +1,4 @@
 print("Hello, world")
-a=enter(int("give 1st number")
-b=enter(int("give 2nd number")    
+a=5
+b=9
 print("result is",a+b)
