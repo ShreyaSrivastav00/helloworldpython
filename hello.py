@@ -1,3 +1,4 @@
 print("Hello, world")
-a=5;b=2
+a=int(enter("give 1st number")
+b=int(enter("give 2nd number")    
 print("result is",a+b)
